@@ -124,22 +124,13 @@ JWT authentication is implemented. Users receive a token after login, which is u
 
 ### Admin Account
 
-* Email: [admin@gmail.com](mailto:admin@gmail.com)
-* Password: 123456
+* Email: [admin09@gmail.com](mailto:admin@gmail.com)
+* Password: 123456789
 
 ### User Account
 
-* Email: [user@gmail.com](mailto:user@gmail.com)
-* Password: 123456
-
-
-## Future Improvements
-
-* Redis caching
-* Docker deployment
-* Microservices architecture
-* Load balancing using Nginx
-
+* Email: [kalimjk099@gmail.com](mailto:user@gmail.com)
+* Password: 123321
 
 
 
