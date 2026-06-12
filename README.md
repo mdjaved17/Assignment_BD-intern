@@ -90,7 +90,7 @@ Authorization: Bearer YOUR_TOKEN
 
 ## Postman Collection
 
-Import the provided Postman collection to test APIs.
+[Import the provided Postman collection to test APIs.](https://documenter.getpostman.com/view/46691750/2sBXwsMW3o)
 
 ## Scalability Notes
 
